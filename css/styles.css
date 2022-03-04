@@ -5,6 +5,7 @@
 .container{
     background-color: rgb(189, 231, 231);
     display: block;
+    margin-top: 60px;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
@@ -14,6 +15,7 @@ img{
     length: 70px;
     border-radius: 500px;
     display: block;
+    float: right;
 }
 .logo{
     margin-left: 20px;

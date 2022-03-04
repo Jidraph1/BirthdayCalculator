@@ -3,15 +3,7 @@
  ##### By Jidraph Kimachia 
  ### Ghanian BirthdayCalculator.
  
- ## Table of Content
- 
- + [Description](#description)
- + [Installation Requirement](#Installation)
- + [Technology Used](#technology-used)
- + [Reference](#reference)
- + [Licence](#licence)
- + [Authors Info](#author-Info)
- 
+
  ## Description
  <p>This is an application that calculates the exact birthday of a person, once you input your birth date. Many people already know their exact birth day but its hectic trying to retreave an old calender to check on the day you were born; where on earth would you get a 1970s calender to check.</p>
  
@@ -24,8 +16,8 @@
  * An access to the Internet
  
  ### Installation Process
- 
- [Go Back to the top](#Birthday Calculator)
+
+
  ## Technology Used
  * HTNL - which was used to build the structure of the pages.
  * CSS - which was used to style the pages incuding the left aside navigation bar
