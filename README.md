@@ -1,7 +1,7 @@
 # Birthday Calculator
  
  ##### By Jidraph Kimachia 
- ### It is a description of my resume.
+ ### Ghanian BirthdayCalculator.
  
  ## Table of Content
  
@@ -13,30 +13,31 @@
  + [Authors Info](#author-Info)
  
  ## Description
- <p>This is  a website that shows my portfolio/resume.It contains all my background information,some sample projects that I have worked on and the experience gained.</p>
+ <p>This is an application that calculates the exact birthday of a person, once you input your birth date. Many people already know their exact birth day but its hectic trying to retreave an old calender to check on the day you were born; where on earth would you get a 1970s calender to check.</p>
  
  ## Installation
  
  ### Requirements
  
  * Either a computer,phone,tablet or an Ipad
- 
+ * Literacy to fill a form
  * An access to the Internet
  
  ### Installation Process
  
- [Go Back to the top](#portfolio)
+ [Go Back to the top](#Birthday Calculator)
  ## Technology Used
  * HTNL - which was used to build the structure of the pages.
- 
  * CSS - which was used to style the pages incuding the left aside navigation bar
-
- * JavaScript - for 
+ * JavaScript - for interaction with the user and give the exact feedback
  
  ## Reference
- * Materialize CSS
+
+ ##Link to GitHub pages
+
+
  
- [Go Back to the top](#portfolio)
+ [Go Back to the top](#Birthday Calculator)
  
  ## Licence
  
