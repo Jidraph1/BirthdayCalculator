@@ -1,0 +1,14 @@
+*body{
+    margin: 0;
+    padding: 0
+}
+.container{
+    background-color: azure;
+    margin: 0;
+    padding: 0;
+    border-top: 20px;
+}
+.img{
+    width: 30px;
+    length: 30px;
+}
