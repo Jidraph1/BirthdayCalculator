@@ -1,4 +1,4 @@
 
 
 
-document.getElementById(id).innerHTML
+document.getElementById("female")
