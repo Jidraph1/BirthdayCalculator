@@ -3,19 +3,26 @@
     padding: 20px;
 }
 .container{
-    background-color: rgb(189, 231, 231);
+    background-color: rgb(203, 240, 240);
     display: block;
     margin-top: 60px;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
 }
-img{
+#img1{
     width: 60px;
     length: 70px;
     border-radius: 500px;
     display: block;
     float: right;
+}
+#img2{
+    width: 60px;
+    length: 70px;
+    border-radius: 500px;
+    display: block;
+    float: left;
 }
 .logo{
     margin-left: 20px;
