@@ -35,7 +35,7 @@ form.addEventListener('submit', function (event) {
     const dayOfThDay = days[day]
 
     if(gender === 'Male') {
-    alert( 'Your Akan name is ' + make[dayOfTheWeek])
+         alert( 'Your Akan name is ' + male[dayOfTheWeek])
     } else {
-    alert( 'Your Akan name is ' + female[dayOfTheWeek])
+        alert( 'Your Akan name is ' + female[dayOfTheWeek])
     }
