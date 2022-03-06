@@ -27,6 +27,9 @@ const form = document.getElementById('form')
 
 form.addEventListener('submit', function (event) {
 event.preventDefault();
-const gender = document.querySelector
-
+const gender = document.querySelector('input[name="gender"]:checked').value
+const result = document.getElementById('DOB').value
+const date = new Date(dob)
+const = date.getDay()
+const dayOfThDay = days[day]
 }
