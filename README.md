@@ -25,9 +25,9 @@
  
  ## Reference
 
- ##Link to GitHub pages
-
-
+ ## Link to GitHub pages
+ 
+ * https://jidraph1.github.io/BirthdayCalculator/
  
  [Go Back to the top](#Birthday Calculator)
  
