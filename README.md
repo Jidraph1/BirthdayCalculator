@@ -19,14 +19,14 @@
 
 
  ## Technology Used
- * HTNL - which was used to build the structure of the pages.
+ * HTML - which was used to build the structure of the pages.
  * CSS - which was used to style the pages incuding the left aside navigation bar
  * JavaScript - for interaction with the user and give the exact feedback
  
  ## Reference
 
  ## Link to GitHub pages
- 
+
  * https://jidraph1.github.io/BirthdayCalculator/
  
  [Go Back to the top](#Birthday Calculator)

@@ -1,26 +1,24 @@
 
+const days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
 
-
-const days = ["Sunday" , "Monday" , "Tuesday" , "Wednesday" , "Thursday" , "Friday" , "Saturday"]
-
-const male ={
-    Sunday : "Kwasi",
-    Monday : "Kwadwo",
-    Tuesday : "Kwabena",
-    Wednesday : "Kwaku",
-    Thursday : "Yaw",
-    Friday : "Kofi",
-    Saturday : "Kwame"
+const male = {
+    Sunday:"Kwasi",
+    Monday:"Kwadwo",
+    Tuesday:"Kwabena",
+    Wednesday:"Kwaku",
+    Thursday:"Yaw",
+    Friday:"Kofi",
+    Saturday:"Kwame"
 }
 
-const female={
-    Sunday : "Akosua",
-    Monday : "Adwoa",
-    Tuesday : "Abenna",
-    Wednesday : "Akua",
-    Thursday : "Yaa",
-    Friday : "Afua",
-    Saturday : "Ama"
+const female= {
+    Sunday:"Akosua",
+    Monday:"Adwoa",
+    Tuesday:"Abenna",
+    Wednesday:"Akua",
+    Thursday:"Yaa",
+    Friday:"Afua",
+    Saturday:"Ama"
 }
 
 const form = document.getElementById('form')
@@ -32,10 +30,11 @@ form.addEventListener('submit', function (event) {
     const result = document.getElementById('result')
     const date = new Date(dob)
     const day = date.getDay()
-    const dayOfThDay = days[day]
+    const dayOfTheWeek = days[day]
 
     if(gender === 'Male') {
-         alert( 'Your Akan name is ' + male[dayOfTheWeek])
+         alert( ' Your Akan name is ' + male[dayOfTheWeek])
     } else {
-        alert( 'Your Akan name is ' + female[dayOfTheWeek])
+        alert( ' Your Akan name is ' + female[dayOfTheWeek])
     }
+}
